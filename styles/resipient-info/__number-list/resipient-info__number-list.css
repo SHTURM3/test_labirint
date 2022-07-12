@@ -1,0 +1,22 @@
+.resipient-info__number-list {
+    max-width: 285px;
+    width: 100%;
+    font-family: 'PTRootUI', 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 0.13px;
+    border: none;
+    appearance: none; 
+    background: url('../../../images/select-arrow.svg') no-repeat right;
+}
+
+@media screen and (max-width: 400px){
+    .resipient-info__number-list{
+        display: flex;
+        max-width: 210px;
+        font-size: 17px;
+        line-height: 20px;
+        letter-spacing: 0.13px;
+    }
+}

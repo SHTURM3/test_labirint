@@ -1,0 +1,17 @@
+.change-link {
+    display: block;
+    text-decoration: none;
+    font-family: 'PTRootUI', 'Arial', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #065CC2;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 400px){
+    .change-link{
+        font-size: 17px;
+        line-height: 21px;
+    }
+}

@@ -1,0 +1,15 @@
+.delivery-time {
+    max-width: 805px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-time{
+        display: block;
+        max-width: 300px;
+    }
+}

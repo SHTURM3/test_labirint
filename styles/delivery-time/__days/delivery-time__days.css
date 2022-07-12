@@ -1,0 +1,14 @@
+.delivery-time__days {
+    font-family: 'PTRootUI', 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 0.13px;
+    margin: 0;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-time__days{
+        display: none;
+    }
+}

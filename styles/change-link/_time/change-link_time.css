@@ -1,0 +1,9 @@
+.change-link_time {
+    margin-left: 30px;
+}
+
+@media screen and (max-width: 400px){
+    .change-link_time {
+        margin-left: 0;
+    }
+}

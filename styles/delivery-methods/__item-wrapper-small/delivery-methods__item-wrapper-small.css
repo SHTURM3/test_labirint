@@ -1,0 +1,9 @@
+.delivery-methods__item-wrapper-small{
+    display: none;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-methods__item-wrapper-small{
+        display: block;
+    }
+}

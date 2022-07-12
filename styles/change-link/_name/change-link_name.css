@@ -1,0 +1,10 @@
+.change-link_name {
+    max-width: 602px;
+    width: 100%;
+}
+
+@media screen and (max-width: 400px){
+    .change-link_name{
+        display: none;
+    }
+}

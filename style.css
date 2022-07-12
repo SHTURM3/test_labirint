@@ -1,0 +1,112 @@
+@import url('./fonts/pt-root-ui.css');
+
+@import url('./styles/body/body.css');
+@import url('./styles/page/page.css');
+
+@import url('./styles/header/header.css');
+@import url('./styles/header/__title/header__title.css');
+
+@import url('./styles/content/content.css');
+
+@import url('./styles/order-parameters/order-parameters.css');
+@import url('./styles/delivery/delivery.css');
+@import url('./styles/delivery/__wrapper/delivery__wrapper.css');
+
+@import url('./styles/section-title/sectiom-title.css');
+
+@import url('./styles/carousel-btns/carousel-btns.css');
+@import url('./styles/carousel-btns/__left/carousel-btns__left.css');
+@import url('./styles/carousel-btns/__left/_active/carousel-btns__left_active.css');
+@import url('./styles/carousel-btns/__right/carousel-btns__right.css');
+@import url('./styles/carousel-btns/__right/_active/carousel-btns__right_active.css');
+
+@import url('./styles/delivery-info/delivery-info.css');
+
+@import url('./styles/delivery-methods/delivery-methods.css');
+@import url('./styles/delivery-methods/__list/delivery-methods__list.css');
+@import url('./styles/delivery-methods/__item/delivery-methods__item.css');
+@import url('./styles/delivery-methods/__item/_active/delivery-methods__item_active.css');
+@import url('./styles/delivery-methods/__item-wrapper/delivery-methods__item-wrapper.css');
+@import url('./styles/delivery-methods/__item-wrapper-small/delivery-methods__item-wrapper-small.css');
+@import url('./styles/delivery-methods/__title/delivery-methods__title.css');
+@import url('./styles/delivery-methods/__adress/delivery-methods__adress.css');
+@import url('./styles/delivery-methods/__prise/delivery-methods__prise.css');
+@import url('./styles/delivery-methods/__prise-small/delivery-methods__prise-small.css');
+
+@import url('./styles/change-link/change-link.css');
+@import url('./styles/change-link/_adress/change-link_address.css');
+@import url('./styles/change-link/_time/change-link_time.css');
+@import url('./styles/change-link/_name/change-link_name.css');
+@import url('./styles/change-link/_name-small/change-link_name-small.css');
+@import url('./styles/change-link/_phone/change-link_phone.css');
+@import url('./styles/change-link/_phone-small/change-link_phone-small.css');
+
+@import url('./styles/delivery-time/delivery-time.css');
+@import url('./styles/delivery-time/__list/delivery-time__list.css');
+@import url('./styles/delivery-time/__item/delivery-time__item.css');
+@import url('./styles/delivery-time/__item/_active/delivery-time__item_active.css');
+@import url('./styles/delivery-time/__days/delivery-time__days.css');
+@import url('./styles/delivery-time/__days/_small/delivery-time__days_small.css');
+@import url('./styles/delivery-time/__hours/delivery-time__hours.css');
+@import url('./styles/delivery-time/__hours/_small/delivery-time__hours_small.css');
+
+@import url('./styles/delivery-functions/delivery-functions__list.css');
+@import url('./styles/delivery-functions/__list/delivery-functions__list.css');
+@import url('./styles/delivery-functions/__item/delivery-functions__item.css');
+
+@import url('./styles/notifications/notifications.css');
+
+@import url('./styles/function/function.css');
+
+@import url('./styles/recipient/recipient.css');
+@import url('./styles/recipient/__wrapper/recipient__wrapper.css');
+
+@import url('./styles/resipient-info/resipient-info.css');
+@import url('./styles/resipient-info/__wrapper/resipient-info__wrapper.css');
+@import url('./styles/resipient-info/__name/resipient-info__name.css');
+@import url('./styles/resipient-info/__name-title/resipient-info__name-title.css');
+@import url('./styles/resipient-info/__name-title-small/resipient-info__name-title-small.css');
+@import url('./styles/resipient-info/__name-list/resipient-info__name-list.css');
+@import url('./styles/resipient-info/__number/resipient-info__number.css');
+@import url('./styles/resipient-info/__number-wrapper/resipient-info__number-wrapper.css');
+@import url('./styles/resipient-info/__number-title/resipient-info__number-title.css');
+@import url('./styles/resipient-info/__number-title-small/resipient-info__number-title-small.css');
+@import url('./styles/resipient-info/__number-list/resipient-info__number-list.css');
+
+@import url('./styles/change-links/change-links.css');
+
+@import url('./styles/order-total/order-total.css');
+@import url('./styles/order-total/__wrapper/order-total__wrapper.css');
+@import url('./styles/order-total/__weight/order-total__weight.css');
+@import url('./styles/order-total/__list/order-total__list.css');
+@import url('./styles/order-total/__item/order-total__item.css');
+
+@import url('./styles/point/point.css');
+@import url('./styles/point/__name/point__name.css');
+@import url('./styles/point/__price/point__price.css');
+
+@import url('./styles/footer/footer.css');
+@import url('./styles/footer/__wrapper/footer__wrapper.css');
+@import url('./styles/footer/__btn/footer__btn.css');
+
+@import url('./styles/total/total.css');
+@import url('./styles/total-small/total-small.css');
+@import url('./styles/total/__text/total__text.css');
+@import url('./styles/total/__price/total__price.css');
+
+@import url('./styles/popup/popup.css');
+@import url('./styles/popup/__container/popup__container.css');
+@import url('./styles/popup/_active/popup_active.css');
+@import url('./styles/popup/_wrapper/popup__wrapper\ .css');
+@import url('./styles/popup/__quantity/popup__quantity.css');
+@import url('./styles/popup/__weignt/popup__weignt.css');
+@import url('./styles/popup/__list/popup__list.css');
+@import url('./styles/popup/__item/popup__item.css');
+@import url('./styles/popup/__btn-wrapper/popup__btn-wrapper.css');
+@import url('./styles/popup/__btn-close/popup__btn-close.css');
+
+@import url('./styles/popup-point/popup-point.css');
+@import url('./styles/popup-point/__name/popup-point__name.css');
+@import url('./styles/popup-point/__price/popup-point__price.css');
+
+@import url('./styles/line/line.css');

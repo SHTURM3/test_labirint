@@ -1,0 +1,10 @@
+.popup__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 322px;
+    width: 100%;
+    margin-bottom: 322px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #D6D6D6;
+}

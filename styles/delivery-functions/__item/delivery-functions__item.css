@@ -1,0 +1,18 @@
+.delivery-functions__item {
+    font-family: 'PTRootUI', 'Arial', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    margin-bottom: 14px;
+}
+
+.delivery-functions__item:last-child {
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-functions__item{
+        font-size: 17px;
+        line-height: 21px;
+    }
+}

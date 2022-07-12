@@ -1,0 +1,17 @@
+.delivery-methods__title {
+    font-family: 'PTRootUI', 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 0.13px;
+    margin: 0;
+    max-width: 365px;
+    width: 100%;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-methods__title{
+        font-size: 17px;
+        line-height: 21px;
+    }
+}

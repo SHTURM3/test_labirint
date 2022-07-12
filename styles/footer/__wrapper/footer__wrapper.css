@@ -1,0 +1,14 @@
+.footer__wrapper{
+    max-width: 1743px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 400px){
+    .footer__wrapper{
+        display: block;
+        margin: 0 auto;
+        max-width: 300px;
+    }
+}

@@ -1,0 +1,10 @@
+.resipient-info__wrapper{
+    display: flex;
+    margin-bottom: 14px;
+}
+
+@media screen and (max-width: 400px){
+    .resipient-info__wrapper{
+        display: block;
+    }
+}

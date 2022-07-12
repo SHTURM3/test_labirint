@@ -1,0 +1,14 @@
+.change-link_name-small{
+    display: none;
+}
+
+@media screen and (max-width: 400px){
+    .change-link_name-small{
+        display: block;
+        font-family: 'PTRootUI', 'Arial', sans-serif;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 20px;
+        color: #065CC2;
+    }
+}

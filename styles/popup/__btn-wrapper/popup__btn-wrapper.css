@@ -1,0 +1,7 @@
+.popup__btn-wrapper{
+    padding: 16px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #F8F8F8;
+    border-top: 1px solid #D6D6D6;
+    display: flex;
+    justify-content: center;
+}

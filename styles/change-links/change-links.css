@@ -1,0 +1,12 @@
+.change-links {
+    display: flex;
+    max-width: 933px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width: 400px){
+    .change-links{
+        display: none;
+    }
+}

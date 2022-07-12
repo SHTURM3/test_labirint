@@ -1,0 +1,15 @@
+.resipient-info__name-title-small{
+    display: none;
+}
+
+@media screen and (max-width: 400px){
+    .resipient-info__name-title-small{
+        display: block;
+        font-family: 'PTRootUI', 'Arial', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        letter-spacing: 0.13px;
+        margin: 0;
+    }
+}

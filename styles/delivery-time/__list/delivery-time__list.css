@@ -1,0 +1,14 @@
+.delivery-time__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    max-width: 565px;
+    width: 100%;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-time__list{
+        margin-bottom: 8px;
+    }
+}

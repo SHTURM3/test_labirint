@@ -1,0 +1,13 @@
+.total-small{
+    display: none;
+}
+
+@media screen and (max-width: 400px){
+    .total-small{
+        display: block;
+        max-width: 328px;
+        width: 100%;
+        display: flex;
+        margin-bottom: 16px;
+    }
+}

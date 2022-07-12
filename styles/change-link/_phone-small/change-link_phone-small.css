@@ -1,0 +1,9 @@
+.change-link_phone-small{
+    display: none;
+}
+
+@media screen and (max-width: 400px){
+    .change-link_phone-small{
+        display: block;
+    }
+}

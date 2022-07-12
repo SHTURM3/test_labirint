@@ -1,0 +1,14 @@
+.delivery-time__days_small{
+    display: none;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-time__days_small{
+        display: block;
+        font-family: 'PTRootUI', 'Arial', sans-serif;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 21px;
+        margin: 0;
+    }
+}

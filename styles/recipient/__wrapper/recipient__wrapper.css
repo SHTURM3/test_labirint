@@ -1,0 +1,9 @@
+@media screen and (max-width: 400px){
+    .recipient__wrapper{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 300px;
+        margin-bottom: 8px;
+    }
+}

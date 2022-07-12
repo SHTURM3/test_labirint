@@ -1,0 +1,13 @@
+.delivery-time__hours {
+    font-family: 'PTRootUI', 'Arial', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    margin: 0;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-time__hours{
+        display: none;
+    }
+}

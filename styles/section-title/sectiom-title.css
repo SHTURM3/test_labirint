@@ -1,0 +1,14 @@
+.section-title {
+    margin: 0;
+    font-family: 'PTRootUI', 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 37px;
+}
+
+@media screen and (max-width: 400px){
+    .section-title{
+        font-size: 21px;
+        line-height: 26px;
+    }
+}

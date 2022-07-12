@@ -1,0 +1,17 @@
+.resipient-info__name {
+    max-width: 572px;
+    width: 100%;
+    padding: 10px 14px 12px 14px;
+    background: #FFFFFF;
+    border: 1px solid #D6D6D6;
+    border-radius: 4px;
+    margin-right: 14px;
+}
+
+@media screen and (max-width: 400px){
+    .resipient-info__name{
+        max-width: 300px;
+        margin-right: 0;
+        margin-bottom: 8px;
+    }
+}

@@ -1,0 +1,6 @@
+.order-total__item {
+    margin-bottom: 14px;
+}
+.order-total__item:last-child {
+    margin-bottom: 0px;
+}

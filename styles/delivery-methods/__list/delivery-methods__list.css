@@ -1,0 +1,12 @@
+.delivery-methods__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-methods__list{
+        width: 800px;
+    }
+}

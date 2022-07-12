@@ -1,0 +1,9 @@
+.order-total__list {
+    max-width: 490px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #D6D6D6;;
+}

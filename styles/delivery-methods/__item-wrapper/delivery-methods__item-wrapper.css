@@ -1,0 +1,9 @@
+.delivery-methods__item-wrapper{
+    margin-right: 15px;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-methods__item-wrapper{
+        display: none;
+    }
+}

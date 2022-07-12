@@ -1,0 +1,11 @@
+.delivery-methods {
+    overflow: hidden;
+    margin-bottom: 14px;
+}
+
+@media screen and (max-width: 400px){
+    .delivery-methods{
+        overflow: hidden;
+        max-width: 330px;
+    }
+}

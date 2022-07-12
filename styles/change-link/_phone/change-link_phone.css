@@ -1,0 +1,11 @@
+.change-link_phone{
+    max-width: 317px;
+    width: 100%;
+    margin-left: 15px; 
+}
+
+@media screen and (max-width: 400px){
+    .change-link_phone{
+        display: none;
+    }
+}
